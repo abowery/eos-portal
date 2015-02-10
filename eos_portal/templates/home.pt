@@ -1,7 +1,7 @@
 <html metal:use-macro="load: base_template.pt" lang="en">
 
 <section metal:fill-slot="content">
-	<h1>We could cause a diplomatic crisis.</h1>
+	<h1>We could cause a crisis.</h1>
 	<p>Take the ship into the Neutral Zone What's a knock-out like you doing in a computer-generated gin joint like this? I am your worst nightmare! Mr. Worf, you sound like a man who's asking his friend if he can start dating his sister. Yesterday I did not know how to eat gagh. Besides, you look good in a dress. I'm afraid I still don't understand, sir. Computer, belay that order.</p>
 	<h1>Fate.</h1>
 	<p>It protects fools, little children, and ships named "Enterprise." When has justice ever been as simple as a rule book? Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Maybe we better talk out here; the observation lounge has turned into a swamp. Is it my imagination, or have tempers become a little frayed on the ship lately? Your head is not an artifact! When has justice ever been as simple as a rule book?</p>
